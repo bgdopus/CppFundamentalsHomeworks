@@ -3,7 +3,7 @@
 // Author      : Daniel Georiev
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Calculate the greatest common divisor(GCD) of given two numbers.
 //============================================================================
 
 #include <iostream>
